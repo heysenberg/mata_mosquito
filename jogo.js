@@ -15,6 +15,9 @@ criaMoscaTempo = 1000
 }else if (nivel == 'chucknorris')
 {
 criaMoscaTempo = 750
+}else if (nivel == 'deus')
+{
+criaMoscaTempo = 600
 }
 
 function ajustaTamanhoJogo()
